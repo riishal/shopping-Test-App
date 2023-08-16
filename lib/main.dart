@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:test_app/view/homepage.dart';
-import 'package:test_app/Service/provider.dart';
+import 'package:test_/Service/provider.dart';
+import 'package:test_/view/homepage.dart';
 
 void main() async {
   runApp(const MyApp());
